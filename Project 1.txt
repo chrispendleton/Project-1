@@ -1,0 +1,9 @@
+Pages:  index.html
+	index.html#aboutus
+	index.html#contactus
+
+Path: \\webdc01\user05\webd265\Project 1\
+
+CSS: \\webdc01\user05\webd265\Project 1\themes\
+
+Logo: \\webdc01\user05\webd265\Project 1\images\rusticpearlogo.png
